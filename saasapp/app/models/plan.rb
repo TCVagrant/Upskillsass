@@ -1,4 +1,4 @@
 class Plan < ActiveRecord::Base
-    has_many_ :users
+    has_many :users
     
 end
