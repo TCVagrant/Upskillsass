@@ -14,3 +14,9 @@ should valiadte the users fields. Rails app will not wether plan 1 or plan 2.
 to Stripe server and Stripe will creat a subscription and send back customer
 token. Rails should save customer token and user infomation to our database.
 
+User Profiles
+* Each user should havbe one profile
+* User should see link to new profile form upon signing up
+* User should be able to create and view their user profile
+* User profile should have a profile picture
+* User should be able to view all user profiles
